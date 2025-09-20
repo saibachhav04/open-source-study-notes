@@ -1,1 +1,1 @@
-# process management\n\nProcess = program in execution.\nStates: New, Ready, Running, Waiting, Terminated.
+# process management                                                    Process = program in execution.                                                 States: New, Ready, Running, Waiting, Terminated.
